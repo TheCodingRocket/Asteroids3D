@@ -4,11 +4,11 @@ AsteroidPatrol3D
 A First-Person 3D version of the classic game Asteroids <br>
 
 [play AsteroidPatrol3D](http://erichlof.github.io/AsteroidPatrol3D/AsteroidPatrol3D.html)
-\ [[view main source](https://github.com/erichlof/AsteroidPatrol3D/blob/gh-pages/AsteroidPatrol3D.html)\]
+ [[view main source](https://github.com/TheCodingRocket/Asteroids3D)\]
 
 <h5>Be sure to check out my other 3D games!</h5>
-* [SpacePong3D](https://github.com/erichlof/SpacePong3D)
-* [3dLightCycles](https://github.com/erichlof/3dLightCycles)
+* [SpacePong3D](https://lightspeed.netlify.app)
+* [3dLightCycles](https://tower-platformer.netlify.app)
 
 
 <h4>Quick instructions for AsteroidPatrol3D:</h4>
